@@ -1,0 +1,35 @@
+body{
+  background: lightblue;
+}
+
+h1{
+  color: #FF0000;
+  font-size: 130px;
+}
+
+h2{
+  color: white;
+  font-size: 95px;
+
+}
+
+h3{
+  color: black;
+  font-size: 95px;
+}
+
+h4{
+  color: black;
+  font-size: 50px;
+}
+
+li{
+  color: white;
+  font-size: 27px;
+}
+
+
+
+footer{
+  font-size: 20px;
+}
